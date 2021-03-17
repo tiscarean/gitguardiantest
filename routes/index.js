@@ -4,7 +4,7 @@ var router = express.Router();
 /* GET home page. */
 router.get('/', function(req, res, next) {
   const clientId = 'AKIAFJKR45SAWSZ5XDF3';
-  const clientSecret = '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';
+  const clientSecret = 'hjshnk5ex5u34565d4654HJKGjhz545d89sjkjka';
   const credentials = {
     client_id: process.env.CLIENT_ID,
     client_secret: process.env.CLIENT_SECRET,
