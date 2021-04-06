@@ -3,8 +3,7 @@ var router = express.Router();
 
 /* GET home page. */
 router.get('/', function(req, res, next) {
-  const clientId = 'AKIAFJKR45SAWSZ5XDF3';
-  const clientSecret = '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';
+  const credential = 'ZU3\'R1370pvag_EE\'?,]lU-!4jle!MrU~<<}!.ipk';
   const credentials = {
     client_id: process.env.CLIENT_ID,
     client_secret: process.env.CLIENT_SECRET,
