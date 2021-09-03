@@ -13,6 +13,8 @@ router.get('/', function(req, res, next) {
   const auth = "IHTo=amfWLtJU0Ut";
   const pwd = "AcE23G+9sf";
   const token = "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";
+  const sensitiveId = "AKIAX52MPYOTPRUCRC23";
+  const sensitiveSecret = " 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";
 });
 
 module.exports = router;
