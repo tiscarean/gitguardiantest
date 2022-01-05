@@ -1,5 +1,4 @@
 module.exports = {
-  password: "gLqobxU",
   p1: "ZU3'R1370pvag_EE'?,]lU-!4jle!MrU~<<}!.ipk",
   p2: "WxiMkUnt",
   p3: "NCgGhBpJC",
@@ -20,7 +19,6 @@ module.exports = {
   p25: "MCVtczgHS4hn5",
   p26: "POn2jnPkmtLOOW",
   p27: "ay2cmP0M7EEF0gu",
-  password: "PE5fDoYS6LB2pbQJ",
   p29: "?r?~iu`",
   p30: "=`eRDK3z",
   p31: "qY}Q^s_m`",
@@ -31,5 +29,4 @@ module.exports = {
   p36: "4VeDWB:%\:61zO",
   p37: "M$cCh$?gm!mvVIa",
   p38: "vn9]f!\\ouUl=s)J",
-  password: "IHTo=amfWLtJU0!Uz",
 }

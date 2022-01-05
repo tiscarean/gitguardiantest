@@ -1,6 +1,5 @@
 const someKey = "removed";
 const auth = "removed";
-const pwd = "removed";
 const github_token = "some_value"
 
 
